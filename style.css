@@ -66,6 +66,16 @@ b{
   backdrop-filter: saturate(180%) blur(20px);
 }
 
+#contenitore_scritte{
+  transform: translate(-50%,-50%);
+  top:80%;
+  left:50%;
+  position: absolute;
+	width: 400px;
+	height:200px;
+  text-align:center;
+}
+
 .list{
 	margin-left: 20px;
 	margin-right: 20px;
@@ -201,8 +211,7 @@ h3 {
 h4 {
   margin-top:5px;
   margin-bottom: 5px;
-	padding-left:25px;
-  color: black;
+	color: black;
 	font-size:25px;
 	font-weight: bold;
 
@@ -220,10 +229,9 @@ h4 {
 }
 
 .background-white-transparent-1 {
-	margin-left: 300px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-	padding: 30px;
+	transform: translate(-50%,-50%);
+  left:50%;
+  position: absolute;
 	background-color: #ffffffc4;
 	max-width: 400px;
 	width: 100%;
