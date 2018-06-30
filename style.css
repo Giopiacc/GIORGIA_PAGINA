@@ -114,17 +114,15 @@ position: relative;
 	margin-left: 200px;
 
 }
+.play{
+  width:150px;
+  height: 100px;
+  transform: translate(-50%,-50%);
+  position: absolute;
+  left: 50%;
 
-.fa {
-  height:100px;
-  width:100px;
-  padding: 100%;
-  display: inline-block;
-  font-size: 100px;
-  margin-bottom: 50px;
-  overflow: auto;
+}
 
-  }
 
 body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
