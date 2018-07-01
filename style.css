@@ -180,6 +180,14 @@ a:focus {
 
 }
 
+.window_video{
+  min-height: 100vh;
+	background-color: black;
+	display: flex;
+	align-items: center;
+
+}
+
 .text-white {
 
   color: #fff; }
