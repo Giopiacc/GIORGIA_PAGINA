@@ -71,7 +71,7 @@ b{
 }
 .presentazione{
   transform: translate(-50%,-50%);
-  top:105%;
+  top:100%;
   left:50%;
   position: absolute;
 	width: 800px;
