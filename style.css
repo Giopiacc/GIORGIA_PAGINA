@@ -182,7 +182,8 @@ a:focus {
 
 .window_video{
   min-height: 100vh;
-	background-color: black;
+  background: transparent;
+
 	display: flex;
 	align-items: center;
 
